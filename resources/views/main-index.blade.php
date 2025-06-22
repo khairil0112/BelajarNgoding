@@ -118,7 +118,8 @@
             <!-- End Navbar -->
             <div class="content">
                 <div class="container-fluid">
-                    <div class="row">
+                    @yield('content')
+                    <!-- <div class="row">
                         <div class="col-md-4">
                             <div class="card ">
                                 <div class="card-header ">
@@ -321,7 +322,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <footer class="footer">
