@@ -5,8 +5,8 @@
 
 @section('content')
 <div class="row">
-    <div class="col-md-12">
-        <div class="card">
+    <div class="card col-md-12 py-0">
+        <div class="">
             <div class="header">
                 <h4 class="title">Striped Table with Hover</h4>
                 <p class="category">Here is a subtitle for this table</p>

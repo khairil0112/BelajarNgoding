@@ -45,7 +45,7 @@
             <div class="sidebar-wrapper">
                 @yield('sidebar')
 
-                
+
             </div>
         </div>
         <div class="main-panel">
@@ -119,6 +119,7 @@
             <div class="content">
                 <div class="container-fluid">
                     @yield('content')
+                    
                     <!-- <div class="row">
                         <div class="col-md-4">
                             <div class="card ">
