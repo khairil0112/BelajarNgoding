@@ -12,7 +12,7 @@
                 <p class="category">Here is a subtitle for this table</p>
             </div>
             <div class="content table-responsive table-full-width">
-                <table class="table table-hover">
+                <table class="table table-hover danger">
                     <thead>
                         <th>ID</th>
                         <th>Name</th>
