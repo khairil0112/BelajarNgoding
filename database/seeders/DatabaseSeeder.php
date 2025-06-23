@@ -16,9 +16,11 @@ class DatabaseSeeder extends Seeder
     {
         // User::factory(10)->create();
 
-        dailydeposit::create([
+        User::create([
             'id' => '1',
-            'collector_id' => '2',
+            'name' => 'name',
+            'password' => 'password',
+            'status' => 'collector',
         ]);
     }
 }
