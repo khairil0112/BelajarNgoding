@@ -56,6 +56,7 @@
         </div>
 
         <div class="btn-group float-right">
+            <a href="/user" class="btn btn-secondary btn-fill">Back</a>
             <button class="btn btn-info btn-fill pull-left">Submit</button>
         </div>
         <div class="clearfix"></div>
